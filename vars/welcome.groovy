@@ -1,3 +1,3 @@
-def call(script){
- bash ./${script}
+def call(script_name){
+ bash ./${script_name}
  }
