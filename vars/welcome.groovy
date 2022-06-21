@@ -1,3 +1,3 @@
 def run_script(script_name){
- bash ./"${script_name}"
+ sh "bash ${script_name}"
  }
